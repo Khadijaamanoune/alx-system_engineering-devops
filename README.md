@@ -1,1 +1,1 @@
-i am software engineering student
+shell basics Readme
